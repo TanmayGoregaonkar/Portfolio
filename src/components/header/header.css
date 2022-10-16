@@ -32,10 +32,12 @@ header{
     width: 1px;
     height: 2rem;
     background: var(--color-primary);
+    
 }
 
 .me{
     background: linear-gradient(var(--color-primary),transparent);
+    
     width: 22rem;
     height: 30rem;
    position: absolute;
